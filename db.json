@@ -1,0 +1,105 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "zack",
+      "lastName": "b",
+      "email": "zackb@gmal.com",
+      "dob": "2017-03-15T18:30:00.000Z",
+      "gender": "male",
+      "education": "Post Graduate",
+      "company": "errr",
+      "experience": 4,
+      "package": 4,
+      "id": 5
+    },
+    {
+      "firstName": "test",
+      "lastName": "b",
+      "email": "testb@gmail.com",
+      "dob": "2016-10-03T18:30:00.000Z",
+      "gender": "",
+      "education": "Intermediate",
+      "company": "bdo",
+      "experience": 2,
+      "package": 99,
+      "id": 6
+    },
+    {
+      "firstName": "test",
+      "lastName": "b",
+      "email": "testb@gmail.com",
+      "dob": "2016-10-03T18:30:00.000Z",
+      "gender": "",
+      "education": "Intermediate",
+      "company": "bdo",
+      "experience": 2,
+      "package": 56,
+      "id": 8
+    },
+    {
+      "firstName": "wew",
+      "lastName": "sdfsd",
+      "email": "dgsgs",
+      "dob": "2023-07-02T18:30:00.000Z",
+      "gender": "female",
+      "education": "Matric",
+      "company": "dgsgs",
+      "experience": 7,
+      "package": 8,
+      "id": 9
+    },
+    {
+      "firstName": "fsf",
+      "lastName": "sdfsdf",
+      "email": "sdfsdf",
+      "dob": "2023-07-01T18:30:00.000Z",
+      "gender": "male",
+      "education": "Matric",
+      "company": "dfsdf",
+      "experience": 6,
+      "package": 5,
+      "id": 10
+    },
+    {
+      "firstName": "dfd",
+      "lastName": "ssdf",
+      "email": "sdfsf",
+      "dob": "2023-07-02T18:30:00.000Z",
+      "gender": "female",
+      "education": "Graduate",
+      "company": "dddd",
+      "experience": 5,
+      "package": 7,
+      "id": 11
+    },
+    {
+      "firstName": "jack",
+      "lastName": "b",
+      "email": "jackb@gmail.com",
+      "dob": "2020-06-01T18:30:00.000Z",
+      "gender": "others",
+      "education": "Diploma",
+      "company": "johh",
+      "experience": 5,
+      "package": 55,
+      "id": 12
+    }
+  ]
+}
